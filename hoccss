@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> DAY3:CSS</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<style>
+    
+</style>
+<body>
+    <main>
+        <section>
+            <h2 id="title" class="title" style="color: purple;"> CSS selectter </h2>
+            <p class="text"> This is p</p>
+            <p class="text"> This is p</p>
+            <p class="text"> This is p</p>
+            <p class="text"> This is p</p>
+            <p class="text"> This is p</p>
+            <p>this is p</p>
+            <span> This is span</span>
+            <em></em>
+        </section>
+
+        <section>
+            <h2>Quan He cha Con</h2>
+            <div class="parent">
+                <p>This is children</p>
+                <span class="child">This is span in parent</span>
+
+            </div>
+
+            <p>This is P</p>
+            <p>This is P</p>
+            <p>This is P</p>
+            <p>This is P</p>
+        </section>
+
+        <section>
+            <h2>Selectors</h2>
+            <div class="parnet">               
+            </div>
+            
+            <div>               
+            </div>
+
+            <br>
+            <br>
+
+            <div class="parnet2" style="color: brown;">
+             <p class="description" style="color: aqua;">This is p</p>
+             <div>
+                <p class="description">vuhao</p>
+                <p class="description">vuhao</p>
+                <p class="description">vuhao</p>
+                <p class="description">vuhao</p>
+             </div>
+            </div>
+
+            <br>
+            <br>
+
+            <div class="parent3">
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>               
+                <p>5</p>
+                <p>6</p>
+                <p>7</p>
+                <p>8</p>               
+            </div>
+
+             <br>
+            
+             <p class="text">day la p5 </p>
+             <span class="label">day la span</span>
+
+             <br>
+             <br>
+
+             <div class="parent4">
+                <p class="text">
+                    <span class="value"> day la span</span>
+                </p>
+
+             </div>
+            <p class="text"> day la p  </p>
+            <span class="label">day la p1</span>
+        </section>
+
+        <section>
+            <h2>Pseudo class selection</h2>
+            <div class="box">
+                <p>p11</p>
+
+
+            </div>
+            <button> click </button>
+            <ul>
+                <li>tao</li>
+                <li>bi</li>
+                <li>dua</li>
+                <li>hat</li>
+            </ul>
+        </section>
+
+
+        <section>
+
+        </section>
+    </main>
+</body>
+</html>
